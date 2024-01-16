@@ -1,0 +1,15 @@
+.BlackBg
+{
+    background-color: black;
+    color: white;
+}
+.YellowBg
+{
+    background-color: yellow;
+    
+}
+.BlackBg,
+.YellowBg {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
